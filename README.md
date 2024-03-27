@@ -12,3 +12,6 @@
 <br></br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tommilewski&show_icons=true&locale=en&title_color=ffffff&icon_color=48cbe8&text_color=daf7dc&bg_color=151515" alt="tommilewski" /></p>
 
+<br></br>
+[![An image of @tommilewski's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tommilewski)](https://holopin.io/@tommilewski)
+
